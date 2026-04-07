@@ -1,6 +1,6 @@
 const CONFIG = {
     // Cache Version
-    cacheVersion: "v3",
+    cacheVersion: "v4",
 
     // General App Info
     appName: "AI-Hab Identify",
@@ -10,8 +10,8 @@ const CONFIG = {
     iframeUrl: "https://aihab-uk-api-usage-demo.hf.space?embed=true&show_footer=false",
     
     // Visuals & Icons
-    themeColor: "#0d9c38",
-    backgroundColor: "#0E1117",
+    themeColor: "#78bf81",
+    backgroundColor: "#fffdf5",
     appIcon: "icon.png",
     
     // PWA Display Logic

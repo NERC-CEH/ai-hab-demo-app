@@ -1,14 +1,14 @@
 {
   "id": "./",
   "name": "AI-Hab Identify",
-  "short_name": "AI-Hab",
-  "description": "AI-Hab Identify installed as a mobile web app.",
+  "short_name": "AI-Hab Identify",
+  "description": "AI-Hab Identify installable progressive web app",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "display_override": ["standalone", "minimal-ui"],
-  "background_color": "#0E1117",
-  "theme_color": "#0d9c38",
+  "background_color": "#fffdf5",
+  "theme_color": "#78bf81",
   "orientation": "portrait",
   "icons": [
     {
