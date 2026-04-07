@@ -1,6 +1,6 @@
 {
-  "name": "My App",
-  "short_name": "MyApp",
+  "name": "AI-Hab Identify",
+  "short_name": "AI-Hab Identify",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#0E1117",
